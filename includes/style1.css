@@ -1,0 +1,17 @@
+@charset "utf-8";
+.HeaderLogo  {
+	height: 120px;
+	background-color: #FFFFFF;
+	background-image: url(../images/site_images/Logo.gif);
+	background-repeat: no-repeat;
+	/* [disabled]background-origin: padding-box; */
+	/* [disabled]background-attachment: scroll; */
+	background-position: center center;
+}
+#page div #checkForUpdates {
+	height: 60px;
+	background-color: #FFFFFF;
+	text-align: center;
+	/* [disabled]margin-top: -17px; */
+	padding-top: 42px;
+}
